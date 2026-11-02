@@ -45,6 +45,9 @@ We look at the functions whether they add packages, process packages, search, an
 ### Step 8: Sorting Reports
 Packages are sorted by using many fields in the program such as weight, tracking number, recipient, and destination. To look at how these lines work together, and why each of their data structure works.
 
+## Flowchart
+<img width="582" height="411" alt="672738909-7d47bd11-d8ac-4f22-8fcc-06be020c2d3b" src="https://github.com/user-attachments/assets/1e936b4a-73a7-4d5c-81ad-45ff6d098f4d" />
+
 
 
 
