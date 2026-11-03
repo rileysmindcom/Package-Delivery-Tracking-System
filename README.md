@@ -6,3 +6,4 @@ The objective is to handle deliveries through FIFO order searching by tracking n
 Some of the challenges I've experienced was keeping the vector, queue, and hash table consistent to make sure that the shipments were processed through FIFO order checking whether duplicated tracking numbers are rejected. Another was validating user input to perform hash, and linear searches, sorting package reports without altering the original collection. Then looking at how to compute with the statistics to properly use delivery status transitions to manage empty collections securely. To confirm that the system works, and can use the proper data structures, and algorithms was a challenge, and became more easier when checking boundary conditions, incorrect inputs, and other operations that became necessary.
 
 ## My Assignment Video Link:
+https://drive.google.com/file/d/150UaWHE6ma2Ls87EJ5PXPoq85tbMEmr_/view?usp=sharing
